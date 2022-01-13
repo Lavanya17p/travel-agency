@@ -1,7 +1,7 @@
 {
   "name": "travel_agency",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepages": "https://lavanya17p.github.io/travel-agency",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
