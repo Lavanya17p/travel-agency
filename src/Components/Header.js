@@ -6,7 +6,7 @@ function Header() {
   return (
     <Section id="home">
       <div className="background">
-        <img src={homeImage} alt="" />
+        <img src={homeImage} alt="home" />
       </div>
       <div className="content">
         <div className="title">
